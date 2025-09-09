@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <sub>Welcome to ULOG Shop, where you will find the best resources.</sub>
+    <sub>Hello, in this repository you will find all the resources produced by the ULOG Team.</sub>
 </div>
 
 <br/>
