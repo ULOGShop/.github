@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <sub>Hello, in this Organization you will find the highest quality resources produced by the ULOG Team.</sub>
+    <sub>Hello, in this Organization you will find the highest quality resources produced by the ULOG.</sub>
 </div>
 
 <br/>
