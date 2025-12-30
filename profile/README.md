@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" src="https://media.discordapp.net/attachments/1380723073304756254/1415073891780530237/ULOG_LOGO_V_11.png?ex=68c1e1c2&is=68c09042&hm=d11c35f30404642e165383a3d82bc004f490f337c5429690b695f6ae9987f1ee&=&format=webp&quality=lossless&width=984&height=984"/>
+    <img width="100" height="100" alt="ULOG_V1" src="https://github.com/user-attachments/assets/f37f0104-a95c-4da1-855e-1d8a0dccbae7" />
 </div>
 
 <div align="center">
