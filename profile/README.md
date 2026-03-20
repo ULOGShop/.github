@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>ULOG SHOP</h1>
+  <h1>ULOG STUDIOS</h1>
 </div>
 
 <div align="center">
